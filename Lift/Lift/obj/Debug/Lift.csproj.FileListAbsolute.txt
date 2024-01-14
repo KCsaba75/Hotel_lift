@@ -1,0 +1,8 @@
+C:\01_Szoftverfejlesztő és tesztelő technikus\Boros_Tanárúr\Beadandó feledatok_2023_01_14\Hotel_lift\Lift\Lift\obj\Debug\Lift.csproj.AssemblyReference.cache
+C:\01_Szoftverfejlesztő és tesztelő technikus\Boros_Tanárúr\Beadandó feledatok_2023_01_14\Hotel_lift\Lift\Lift\obj\Debug\Lift.csproj.SuggestedBindingRedirects.cache
+C:\01_Szoftverfejlesztő és tesztelő technikus\Boros_Tanárúr\Beadandó feledatok_2023_01_14\Hotel_lift\Lift\Lift\obj\Debug\Lift.csproj.CoreCompileInputs.cache
+C:\01_Szoftverfejlesztő és tesztelő technikus\Boros_Tanárúr\Beadandó feledatok_2023_01_14\Hotel_lift\Lift\Lift\bin\Debug\Lift.exe.config
+C:\01_Szoftverfejlesztő és tesztelő technikus\Boros_Tanárúr\Beadandó feledatok_2023_01_14\Hotel_lift\Lift\Lift\bin\Debug\Lift.exe
+C:\01_Szoftverfejlesztő és tesztelő technikus\Boros_Tanárúr\Beadandó feledatok_2023_01_14\Hotel_lift\Lift\Lift\bin\Debug\Lift.pdb
+C:\01_Szoftverfejlesztő és tesztelő technikus\Boros_Tanárúr\Beadandó feledatok_2023_01_14\Hotel_lift\Lift\Lift\obj\Debug\Lift.exe
+C:\01_Szoftverfejlesztő és tesztelő technikus\Boros_Tanárúr\Beadandó feledatok_2023_01_14\Hotel_lift\Lift\Lift\obj\Debug\Lift.pdb
